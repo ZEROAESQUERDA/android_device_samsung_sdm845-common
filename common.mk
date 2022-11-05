@@ -78,11 +78,9 @@ PRODUCT_PACKAGES += \
 
 # Bluetooth
 PRODUCT_PACKAGES += \
-    audio.a2dp.default
 
 # Camera
 PRODUCT_PACKAGES += \
-    Snap
 
 # Net
 PRODUCT_PACKAGES += \
